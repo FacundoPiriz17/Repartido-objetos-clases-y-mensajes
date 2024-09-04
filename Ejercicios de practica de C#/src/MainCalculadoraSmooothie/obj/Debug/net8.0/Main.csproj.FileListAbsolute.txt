@@ -1,0 +1,15 @@
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\bin\Debug\net8.0\Main.exe
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\bin\Debug\net8.0\Main.deps.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\bin\Debug\net8.0\Main.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\bin\Debug\net8.0\Main.pdb
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.sourcelink.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.pdb
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\Main\obj\Debug\net8.0\ref\Main.dll

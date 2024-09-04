@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {}
+    "C:\\Repos\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
+    "C:\\Repos\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Repos\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+        "projectPath": "C:\\Repos\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\obj\\",
+        "outputPath": "C:\\Repos\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config"
