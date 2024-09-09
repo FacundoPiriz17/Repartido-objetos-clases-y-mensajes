@@ -1,62 +1,23 @@
-﻿namespace CalculadoraSmoothie;
-using System;
+﻿using System;
+namespace CalculadoraSmoothie;
 
-public class Ingredient
+public class Program
 {
-    private string name;
-    private double cost;
-
-    public Ingredient(string name, double cost)
+    public static void Main()
     {
-        this.name = name;
-        this.cost = cost;
-    }
-
-    public string Name
-    {
-        get { return name; }
-        set { name = value; }
-    }
-
-    public double Cost
-    {
-        get { return cost; }
-        set { cost = value; }
-    }
-}
-
-public class Smoothie
-{
-    private List<Ingredient> ingredientsList;
-    private double precioBase;
-
-    public Smoothie()
-    {
-        ingredientsList = new List<Ingredient>();
-        precioBase = 100.0;
-    }
-
-    public List<Ingredient> IngredientsList
-    {
-        get { return ingredientsList; }
-    }
-
-    public void AddIngredient(Ingredient ing)
-    {
-        if (!IngredientsList.Contains(ing))
+        Ingredient banana = new Ingredient("Banana", 25.5);
+        Ingredient frutilla = new Ingredient("Frutilla", 40.0);
+        Smoothie licuado = new Smoothie();
+        licuado.AddIngredient(banana);
+        licuado.AddIngredient(frutilla);
+        
+        foreach (var ingredient in licuado.IngredientsList)
         {
-            IngredientsList.Add(ing);
+            Console.WriteLine(ingredient.Name);
         }
-    }
-
-    public double GetTotalPrice()
-    {
-        double totalPrice = precioBase;
-        foreach (var ing in IngredientsList)
-        {
-            totalPrice += ing.Cost;
-        }
-
-        return totalPrice;
+        
+        Console.WriteLine(licuado.GetTotalPrice());
+        Console.WriteLine(licuado.GetFullName());
+        
     }
 }

@@ -1,0 +1,15 @@
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\bin\Debug\net8.0\SmoothieCalculator.exe
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\bin\Debug\net8.0\SmoothieCalculator.deps.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\bin\Debug\net8.0\SmoothieCalculator.runtimeconfig.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\bin\Debug\net8.0\SmoothieCalculator.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\bin\Debug\net8.0\SmoothieCalculator.pdb
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.AssemblyInfoInputs.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.AssemblyInfo.cs
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.csproj.CoreCompileInputs.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.sourcelink.json
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\refint\SmoothieCalculator.dll
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.pdb
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\SmoothieCalculator.genruntimeconfig.cache
+C:\Repos\Repartido-objetos-clases-y-mensajes\Ejercicios de practica de C#\src\SmoothieCalculator\obj\Debug\net8.0\ref\SmoothieCalculator.dll
