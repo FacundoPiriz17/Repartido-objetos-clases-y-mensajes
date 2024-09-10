@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+l2uaanrLc2ixL+5VZn8vjsONbBqTfmZlkDsHDJ7vZt64J967z0j49lGEfBHY2xNco5T99cA9CeBAGPnqLNiQ==",
+  "dgSpecHash": "N8ezEtARN49ftgSsuBkvtNxiHn075Ty2P2mDAYC17oyL9LaaSTJ5h27V3WWVHClBk6pm/EOPO82vFJfztRww6w==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+  "projectFilePath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj": {}
+    "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
+    "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\obj\\",
+        "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repos\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj": {
+    "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
         "projectName": "Library.Tests",
-        "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
-        "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Ejercicios de practica de C#\\test\\Library.Tests\\obj\\",
+        "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
+        "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -79,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
-                "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj"
+              "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
+                "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj"
               }
             }
           }
@@ -89,6 +94,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -132,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

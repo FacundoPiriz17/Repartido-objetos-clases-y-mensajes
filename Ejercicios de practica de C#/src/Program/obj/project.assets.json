@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\barra\\.nuget\\packages\\": {}
+    "C:\\Users\\matia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Ejercicios de practica de C#\\src\\Program\\Program.csproj",
+      "projectUniqueName": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Program\\obj\\",
+      "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
-              "projectPath": "C:\\Repos\\Ejercicios de practica de C#\\src\\Library\\Library.csproj"
+            "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj": {
+              "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj"
             }
           }
         }
@@ -61,6 +61,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -82,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
