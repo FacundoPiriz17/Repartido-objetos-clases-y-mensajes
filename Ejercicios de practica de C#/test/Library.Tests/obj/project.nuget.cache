@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oD4CBmqyG7v4ISyonAvuLxVh04BleH8TppLt+a47JSe8SIlLBwEI5X7T4k081G3wq3/0clRPwhcukS/V48ykkw==",
+  "dgSpecHash": "B3lfHpTBDYE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
+  "projectFilePath": "C:\\C#\\repositorios UCU\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\test\\Library.Tests\\Library.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matia\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\matia\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

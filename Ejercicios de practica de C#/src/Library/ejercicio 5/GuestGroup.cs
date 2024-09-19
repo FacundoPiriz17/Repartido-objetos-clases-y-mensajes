@@ -2,6 +2,15 @@ namespace Library;
 
 public class GuestGroup
 {
-    private int GuestsNumber;
-    private int DaysToStay;
+    public int GuestsNumber
+    {
+    get {return GuestsNumber;}
+    set{}
+    }
+    public int DaysToStay
+    {
+    get {return DaysToStay;}
+    set{}
+    }
+
 }

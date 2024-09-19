@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\C#\\repositorios UCU\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
+      "projectPath": "C:\\C#\\repositorios UCU\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\matia\\c#_github\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\obj\\",
+      "outputPath": "C:\\C#\\repositorios UCU\\Repartido-objetos-clases-y-mensajes\\Ejercicios de practica de C#\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
